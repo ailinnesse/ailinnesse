@@ -29,5 +29,5 @@ Insurance analytics → data science (General Assembly, ML & predictive modellin
 
 ## 🔗 Find me
 
-- 🌐 Portfolio: [https://ailinnesse.github.io/]
+- 🌐 Portfolio: https://ailinnesse.github.io/
 - 💼 LinkedIn: [linkedin.com/in/tatiana-patrusheva](https://www.linkedin.com/in/tatiana-patrusheva/)
